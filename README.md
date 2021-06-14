@@ -3,7 +3,7 @@ Hi friends, I'm Avinash, an AI researcher. I have a keen interest in deep learni
 <br />
 - 🔭 I’m currently working on Interpretability and Causality research.
 - 🌱 I love to code and contribute to Open Source.
-- 💬 Ask me anything regarding my work, code and research [here](https://github.com/koriaviansh1/koriavinash1/issues).
+- 💬 Ask me anything regarding my work, code and research [here](https://github.com/koriavinash1/koriavinash1/issues).
 - 📫 How to reach me:  avin.kori.re@gmail.com
 
 
