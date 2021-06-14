@@ -6,10 +6,11 @@ Hi friends, I'm Avinash, an AI researcher. I have a keen interest in deep learni
 - 💬 Ask me anything regarding my work, code and research [here](https://github.com/koriaviansh1/koriavinash1/issues).
 - 📫 How to reach me:  avin.kori.re@gmail.com
 
+
 ### Connect with me:
 
 [<img align="left" alt="ai_koriavinash | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />](https://twitter.com/koriavinash001)
-[<img align="left" alt="ai_koriavinash | Linkedin" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://twitter.com/koriavinash001)
+[<img align="left" alt="ai_koriavinash | Linkedin" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/koriavinash1/)
 
 
 <br />
