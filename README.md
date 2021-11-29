@@ -1,6 +1,5 @@
 ### Hi there, I'm Avinash 👋
-Hi friends, I'm Avinash, an AI researcher. I have a keen interest in deep learning and causality research, especially in a field of computer vision.
-<br />
+
 - 🔭 I’m currently working on Interpretability and Causality research.
 - 🌱 I love to code and contribute to Open Source.
 - 💬 Ask me anything regarding my work, code and research [here](https://github.com/koriavinash1/koriavinash1/issues).
