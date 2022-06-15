@@ -32,3 +32,5 @@
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=koriavinash1&color=blue&style=flat-square" align="right" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koriavinash1&" alt="koriavinash1" /></p>
+
